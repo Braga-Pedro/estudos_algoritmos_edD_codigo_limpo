@@ -4,4 +4,12 @@ O início disserta sobre como sempre existirá código e máquina e que as ligua
 
 O código deve ser igual uma boa prosa, fácil de ler e entender. A diferença de um código bom e um ruim, é que um código ruim tentar fazer coisas demais, tem vários propósitos obscuros e ambíguos
 
-pag. 9
+Testes são muito importantes para deixar o código assegurado que está executando sua tarefa. Dicas interessantes de Ron Jeffries (autor de eXtrime Programming Adventure) em ordem de prioridade:
+- efetue todos os testes
+- sem duplicação de código
+- minimize a quantidade de entidades ao máximo
+
+Conceito aprendidos neste capítulo:
+- Entidade não terem mais de uma responsabilidade
+- deixar um código simples e funcional é muito importante para manutenção e durabilidade do projeto
+- sempre deixar o código mais limpo do que quando você o encontrou!
